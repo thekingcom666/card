@@ -1,0 +1,89 @@
+{
+    "api": {
+        "token": "",
+        "base_url": "http://192.168.1.112:2531/v2/api",
+        "app_id": ""
+    },
+    "sites": {
+        "b站": {
+            "url": "https://www.bilibili.com",
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~",
+            "desc": "bilibili是国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主。大家可以在这里找到许多欢乐。",
+            "thumb": "https://i0.hdslb.com/bfs/archive/1b3cc078268b6c0bcac3391b75d3a3ede90fdf76.png",
+            "sourceusername": "gh_bilibili",
+            "sourcedisplayname": "哔哩哔哩"
+        },
+        "github": {
+            "url": "https://github.com",
+            "title": "GitHub: Let's build from here",
+            "desc": "GitHub is where over 100 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories.",
+            "thumb": "https://github.githubassets.com/images/modules/site/social-cards/github-social.png",
+            "sourceusername": "gh_github",
+            "sourcedisplayname": "GitHub"
+        },
+        "百度": {
+            "url": "https://www.baidu.com",
+            "title": "百度一下，你就知道",
+            "desc": "全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。",
+            "thumb": "https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png",
+            "sourceusername": "gh_baidu",
+            "sourcedisplayname": "百度"
+        },
+        "微博": {
+            "url": "https://weibo.com",
+            "title": "微博 - 随时随地发现新鲜事",
+            "desc": "微博是中国领先的社交媒体平台，用户可以在这里发布图片和文字，实时分享身边的新鲜事儿。",
+            "thumb": "https://h5.sinaimg.cn/upload/1059/320/2020/06/16/weibo_logo_2020_white.png",
+            "sourceusername": "gh_weibo",
+            "sourcedisplayname": "微博"
+        },
+        "知乎": {
+            "url": "https://www.zhihu.com",
+            "title": "知乎 - 有问题，就会有答案",
+            "desc": "知乎是中国最大的知识分享社区，汇集了各行各业的专业人士，为用户提供值得信赖的答案。",
+            "thumb": "https://static.zhihu.com/heifetz/assets/apple-touch-icon-152.a53ae37b.png",
+            "sourceusername": "gh_zhihu",
+            "sourcedisplayname": "知乎"
+        },
+        "抖音": {
+            "url": "https://www.douyin.com",
+            "title": "抖音 - 记录美好生活",
+            "desc": "抖音是一款音乐创意短视频社交软件，用户可以通过这款软件选择歌曲，拍摄音乐短视频，形成自己的作品。",
+            "thumb": "https://lf1-cdn-tos.bytescm.com/obj/static/ies/douyin_web/media/logo-pure.7c95fb62.png",
+            "sourceusername": "gh_douyin",
+            "sourcedisplayname": "抖音"
+        },
+        "小红书": {
+            "url": "https://www.xiaohongshu.com",
+            "title": "小红书 - 标记我的生活",
+            "desc": "小红书是年轻人的生活方式平台，用户在这里发现适合自己的生活方式，找到有共同爱好的伙伴。",
+            "thumb": "https://ci.xiaohongshu.com/5b584f2b-af3e-4c16-a2a4-c64b0d6e2f93",
+            "sourceusername": "gh_xiaohongshu",
+            "sourcedisplayname": "小红书"
+        },
+        "淘宝": {
+            "url": "https://www.taobao.com",
+            "title": "淘宝网 - 淘！我喜欢",
+            "desc": "淘宝网是亚太地区较大的网络零售、商圈，由阿里巴巴集团在2003年5月创立。淘宝网是中国深受欢迎的网购零售平台。",
+            "thumb": "https://img.alicdn.com/imgextra/i1/O1CN01rHzIlP1JlcVnGMDgN_!!6000000001069-2-tps-200-200.png",
+            "sourceusername": "gh_taobao",
+            "sourcedisplayname": "淘宝"
+        },
+        "京东": {
+            "url": "https://www.jd.com",
+            "title": "京东 - 多快好省",
+            "desc": "京东是中国最大的自营式电商企业，提供全球超过2.5亿种商品，包括家电、手机、电脑、服装、鞋帽、化妆品等。",
+            "thumb": "https://img10.360buyimg.com/img/jfs/t1/175540/6/19582/4976/60ec3859E0b3aef70/c5d50fa34eb2f8c5.png",
+            "sourceusername": "gh_jd",
+            "sourcedisplayname": "京东"
+        },
+        "网易": {
+            "url": "https://www.163.com",
+            "title": "网易 - 有态度的门户",
+            "desc": "网易是中国领先的互联网技术公司，在开发互联网应用、服务及其它技术方面，网易始终保持国内业界的领先地位。",
+            "thumb": "https://static.ws.126.net/f2e/products/post1603/static/images/logo.png",
+            "sourceusername": "gh_163",
+            "sourcedisplayname": "网易"
+        }
+    }
+} 
